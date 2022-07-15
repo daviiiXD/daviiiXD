@@ -1,4 +1,4 @@
-# Oiiii meu nome é Davi  😀...
+# Oiiii meu nome é Davi  😀
 
 Estou aprendendo javascript e quero trabalhar com front-end. 😆
 
